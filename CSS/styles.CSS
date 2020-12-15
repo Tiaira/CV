@@ -1,0 +1,43 @@
+body {
+  background-color: #043743;
+}
+
+h1 {
+  color: #cdf7f7;
+}
+h3 {
+  color: #cdf7f7;
+}
+img {
+  border-radius: 50%;
+}
+
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-color: gray;
+  border-width: 5px;
+  width: 10%;
+}
+
+a:link {
+  color: #66bfbf;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:visited {
+  color: whitesmoke;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:hover {
+  color: thistle;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+button {
+  background-color: #043743;
+}
